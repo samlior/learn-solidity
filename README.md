@@ -3,15 +3,15 @@
 1.  第一课
 
     1. [简介](./courses/1.md#简介)
-       - 什么是智能合约?
-       - 什么是 Solidity?
-       - 以太坊账户模型
-       - 以太坊交易
+       - [什么是智能合约?](./courses/1.md#什么是智能合约?)
+       - [什么是 Solidity?](./courses/1.md#什么是Solidity?)
+       - [以太坊账户模型](./courses/1.md#以太坊账户模型)
+       - [以太坊交易](./courses/1.md#以太坊交易)
     1. [Solidity](./courses/1.md#Solidity)
-       - 文件结构
-       - 常用类型
-       - 全局变量和函数
-       - 使用例子
+       - [文件结构](./courses/1.md#文件结构)
+       - [常用类型](./courses/1.md#常用类型)
+       - [全局变量和函数](./courses/1.md#全局变量和函数)
+       - [使用例子](./courses/1.md#使用例子)
     1. [第一个智能合约(ERC20)](./courses/1.md#第一个智能合约)
     1. [课堂作业(银行合约)](./courses/1.md#课堂作业)
 
