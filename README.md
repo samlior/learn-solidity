@@ -4,7 +4,7 @@
 
     1. [简介](./courses/1.md#简介)
        - [什么是以太坊智能合约?](./courses/1.md#什么是以太坊智能合约?)
-       - [什么是 Solidity?](./courses/1.md#什么是&nbsp;Solidity?)
+       - [什么是 Solidity?](./courses/1.md#什么是-Solidity?)
        - [以太坊账户模型](./courses/1.md#以太坊账户模型)
        - [以太坊交易](./courses/1.md#以太坊交易)
     1. [Solidity](./courses/1.md#Solidity)
