@@ -11,6 +11,7 @@
        - [什么是 Solidity?](./courses/1.md#什么是-solidity)
        - [以太坊账户模型](./courses/1.md#以太坊账户模型)
        - [以太坊交易](./courses/1.md#以太坊交易)
+    1. [准备工作](./courses/1.md#准备工作)
     1. [Solidity](./courses/1.md#Solidity)
        - [文件结构](./courses/1.md#文件结构)
        - [常用类型](./courses/1.md#常用类型)
