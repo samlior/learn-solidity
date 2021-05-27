@@ -11,12 +11,12 @@
        - [什么是 Solidity?](./courses/1.md#什么是-solidity)
        - [以太坊账户模型](./courses/1.md#以太坊账户模型)
        - [以太坊交易](./courses/1.md#以太坊交易)
-    1. [准备工作](./courses/1.md#准备工作)
     1. [Solidity](./courses/1.md#Solidity)
        - [文件结构](./courses/1.md#文件结构)
        - [常用类型](./courses/1.md#常用类型)
        - [全局变量和函数](./courses/1.md#全局变量和函数)
        - [使用例子](./courses/1.md#使用例子)
+    1. [准备工作](./courses/1.md#准备工作)
     1. [第一个智能合约(ERC20)](./courses/1.md#第一个智能合约)
     1. [课堂作业(银行合约)](./courses/1.md#课堂作业)
 
