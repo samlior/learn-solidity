@@ -17,6 +17,7 @@
        - [常用类型](./courses/1.md#常用类型)
        - [全局变量和函数](./courses/1.md#全局变量和函数)
        - [使用例子](./courses/1.md#使用例子)
+    1. [Transaction 和 Call 的区别](./courses/1.md#transaction-和-call-的区别)
     1. [第一个智能合约(ERC20)](./courses/1.md#第一个智能合约)
     1. [课堂作业(银行合约)](./courses/1.md#课堂作业)
 
