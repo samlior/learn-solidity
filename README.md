@@ -26,11 +26,16 @@
 
 1.  第二课
 
-    1. 编译,调试,部署,测试,认证智能合约
-       - 手动(Remix)
-       - 脚本(Hardhat)
+    1. [Remix](./courses/2.md#Remix)
+       - [编译智能合约](./courses/2.md#编译智能合约)
+       - [部署、调试智能合约](./courses/2.md#部署、调试智能合约)
+       - [手动认证智能合约](./courses/2.md#手动认证智能合约)
+    1. [Hardhat](./courses/2.md#Hardhat)
+       - [Hardhat 项目构建](./courses/2.md#hardhat-项目构建)
+       - [Hardhat 的使用](./courses/2.md#hardhat-的使用)
+       - [自动认证智能合约](./courses/2.md#自动认证智能合约)
     1. 示例代码讲解(OpenZepplin)
-       - ENS
+       - SafeMath
        - ERC20
        - ERC721
 
