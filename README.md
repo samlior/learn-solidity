@@ -24,7 +24,7 @@
     1. [第一个智能合约(ERC20)](./courses/1.md#第一个智能合约)
     1. [课堂作业(银行合约)](./courses/1.md#课堂作业)
 
-1.  第二课
+1.  [第二课](./courses/2.md#第二课)
 
     1. [Remix](./courses/2.md#Remix)
        - [编译智能合约](./courses/2.md#编译智能合约)
