@@ -35,9 +35,10 @@
        - [Hardhat 的使用](./courses/2.md#hardhat-的使用)
        - [自动认证智能合约](./courses/2.md#自动认证智能合约)
     1. 示例代码讲解(OpenZepplin)
-       - SafeMath
-       - ERC20
-       - ERC721
+       - [SafeMath](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v3.2.0/contracts/math/SafeMath.sol)
+       - [AccessControl](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v3.2.0/contracts/access/AccessControl.sol)
+       - [ERC20](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/release-v3.2.0/contracts/token/ERC20)
+       - [ERC721](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/release-v3.2.0/contracts/token/ERC721)
 
 1.  第三课
 
