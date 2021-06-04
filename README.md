@@ -36,7 +36,7 @@
        - [使用例子](./courses/1.md#使用例子)
     1. [Transaction 和 Call 的区别](./courses/1.md#transaction-和-call-的区别)
     1. [第一个智能合约(ERC20)](./courses/1.md#第一个智能合约)
-    1. [课堂作业(银行合约)](./courses/1.md#课堂作业)
+    1. [课堂作业](./courses/1.md#课堂作业)
 
 1.  [第二课](./courses/2.md#第二课)
 
@@ -53,6 +53,7 @@
        - [AccessControl](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v3.2.0/contracts/access/AccessControl.sol)
        - [ERC20](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/release-v3.2.0/contracts/token/ERC20)
        - [ERC721](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/release-v3.2.0/contracts/token/ERC721)
+    1. [课堂作业](./courses/2.md#课堂作业)
 
 1.  第三课
 
