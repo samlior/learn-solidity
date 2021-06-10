@@ -55,9 +55,9 @@
        - [ERC721](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/release-v3.2.0/contracts/token/ERC721)
     1. [课堂作业](./courses/2.md#课堂作业)
 
-1.  第三课
+1.  [第三课](./courses/3.md#第三课)
 
-    1. [UniswapV2 智能合约分析](./courses/3.md#画niswapV2-智能合约分析)
+    1. [UniswapV2 智能合约分析](./courses/3.md#uniswapv2-智能合约分析)
        - [什么是 Uniswap](./courses/3.md#什么是-uniswap)
        - [交易](./courses/3.md#交易)
        - [质押赎回流动性](./courses/3.md#质押赎回流动性)
