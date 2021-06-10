@@ -57,8 +57,18 @@
 
 1.  第三课
 
-    1. UniswapV2 智能合约分析
-    1. MasterChef, SwapMining 智能合约分析
+    1. [UniswapV2 智能合约分析](./courses/3.md#画niswapV2-智能合约分析)
+       - [什么是 Uniswap](./courses/3.md#什么是-uniswap)
+       - [交易](./courses/3.md#交易)
+       - [质押赎回流动性](./courses/3.md#质押赎回流动性)
+       - [交易手续费](./courses/3.md#交易手续费)
+       - [无偿损失](./courses/3.md#无偿损失)
+    1. SushiSwap 智能合约分析
+       - [MasterChef](https://github.com/sushiswap/sushiswap/blob/master/contracts/MasterChef.sol)
+       - [SushiBar](https://github.com/sushiswap/sushiswap/blob/master/contracts/SushiBar.sol)
+       - [SushiMaker](https://github.com/sushiswap/sushiswap/blob/master/contracts/SushiMaker.sol)
+    1. MdexSwap 智能合约分析
+       - [SwapMining](https://github.com/mdexSwap/contracts/blob/master/contracts/heco/SwapMining.sol)
 
 1.  第四课
 
