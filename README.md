@@ -69,6 +69,7 @@
        - [SushiMaker](https://github.com/sushiswap/sushiswap/blob/master/contracts/SushiMaker.sol)
     1. MdexSwap 智能合约分析
        - [SwapMining](https://github.com/mdexSwap/contracts/blob/master/contracts/heco/SwapMining.sol)
+    1. [课堂作业](./courses/3.md#课堂作业)
 
 1.  第四课
 
